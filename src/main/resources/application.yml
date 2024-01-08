@@ -9,5 +9,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/JoelMaciel/kaf-config-repo
+          uri: https://github.com/JoelMaciel/hotel-config-repo
           clone-on-start: true
